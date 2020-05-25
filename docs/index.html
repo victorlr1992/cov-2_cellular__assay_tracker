@@ -51,8 +51,8 @@
         <!-- Change these to match your column names in the appropriate order -->
         <thead>
           <tr>
-            <th>Compound</th>
-		 <th> Smiles code
+            <th>Compound Name</th>
+		 <th>Smiles code
 		 <th>alternative name</th>
 		 <th>activity</th>
 		 <th>inhibitor incubation</th>
@@ -61,13 +61,11 @@
 		 <th>MOI</th>
  		 <th>infection time</th>
 		 <th>Assay</th>
-		 <th>EC50[uM]</th>
+		 <th>EC50uM]</th>
 		 <th>Result</th>
 		 <th>Cytotox assay</th>
 		 <th>cc50 [uM]</th>
 		 <th>URL</th>
-            <th>cell type</th>
-            <th>URL</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -110,7 +108,7 @@ If you think you can help improve the tracker or have questions/suggestions, ple
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
             ajax:
-              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/blob/master/data/database.json",
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/database.json",
             dom: 'lfBrtip',
             buttons: [{extend:'searchPanes', text: 'Filter', config: {
                     cascadePanes: true
@@ -132,7 +130,7 @@ If you think you can help improve the tracker or have questions/suggestions, ple
               container: '.searchPanes',
               cascadePanes: true,
               threshold: .5},
-            columnDefs: [{width: 300, targets: [6, 11, 13]}]
+            columnDefs: [{width: 30, targets: [6, 11, 13]}]
         });
 
         new $.fn.dataTable.Buttons( table, {
