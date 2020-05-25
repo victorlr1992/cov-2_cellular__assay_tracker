@@ -20,9 +20,9 @@
   <body>
     <div class="container">
       <div>
-      <h1>This is the name of my website</h1>
+      <h1>SARS CoV-2 Cellular Tracker</h1>
 
-      <p>This is a short description of the website</p>
+      <p>Group effort to track cellular assays against the SARS CoV-2 around the globe!</p>
 
       <!-- This creates the navigation bar which you likely won't need at the moment -->
       <!-- 
@@ -51,30 +51,23 @@
         <!-- Change these to match your column names in the appropriate order -->
         <thead>
           <tr>
-            <th>index</th>
-            <th>trial_id</th>
-            <th>registry</th>
-            <th>registration_date</th>
-            <th>start_date</th>
-            <th>retrospective_registration</th>
-            <th>sponsor</th>
-            <th>recruitment_status</th>
-            <th>phase</th>
-            <th>study_type</th>
-            <th>countries</th>
-            <th>title</th>
-            <th>study_category</th>
-            <th>intervention</th>
-            <th>enrollment</th>
-            <th>primary_completion_date</th>
-            <th>full_completion_date</th>
-            <th>registy_url</th>
-            <th>results_type</th>
-            <th>results_published_date</th>
-            <th>results_url</th>
-            <th>last_updated</th>
-            <th>first_seen</th>
-            <th>cross_registration</th>
+            <th>Compound</th>
+		 <th> Smiles code
+		 <th>alternative name</th>
+		 <th>activity</th>
+		 <th>inhibitor incubation</th>
+		 <th>virus</th>
+		 <th>cell type</th>
+		 <th>MOI</th>
+ 		 <th>infection time</th>
+		 <th>Assay</th>
+		 <th>EC50[uM]</th>
+		 <th>Result</th>
+		 <th>Cytotox assay</th>
+		 <th>cc50 [uM]</th>
+		 <th>URL</th>
+            <th>cell type</th>
+            <th>URL</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -86,9 +79,11 @@
       <p></p>
       <font size="2"><p><i>Data as of 12 May 2020</i></p></font>
 
-      <p style="font-size:25px;">This is a live work in progress! If you think you can help improve the tracker or have questions/suggestions, please get in touch! <a href="mailto:ebmdatalab@phc.ox.ac.uk">ebmdatalab@phc.ox.ac.uk</a></p>
+      <p style="font-size:25px;">This is a live work in progress!
+If you think you can help improve the tracker or have questions/suggestions, please get in touch! <a href="mailto:annette.vondelft@sgc.ox.ac.uk">annette.vondelft@sgc.ox.ac.uk</a></p>
+	<p style="font-size:25px;">If you come across unreported cellular assays results, you can submit them to our amazing team member <a href="mailto:carina.gileadi@sgc.ox.ac.uk"> Carina Gileadi </a>
 
-      <p>If you come across trial results, you can submit them <a href="https://docs.google.com/forms/d/e/1FAIpQLScG2MTeOz_bOXqrMH-3RzcUGk379Lr9E6sD3taEqhuyLbfLnQ/viewform?usp=sf_link">here</a></p>
+     <!-- <p>If you come across trial results, you can submit them <a href="https://docs.google.com/forms/d/e/1FAIpQLScG2MTeOz_bOXqrMH-3RzcUGk379Lr9E6sD3taEqhuyLbfLnQ/viewform?usp=sf_link">here</a></p> -->
 
       <p><b>Abbreviations:</b></p>
         <ul>
@@ -115,7 +110,7 @@
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
             ajax:
-              "https://raw.githubusercontent.com/ebmdatalab/covid_trials_tracker-covid/master/notebooks/website_data/trials_latest.json",
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/blob/master/data/database.json",
             dom: 'lfBrtip',
             buttons: [{extend:'searchPanes', text: 'Filter', config: {
                     cascadePanes: true
