@@ -1,0 +1,223 @@
+﻿Compound Name;Smiles code;alternative name;activity;inhibitor incubation;virus;cell type;MOI;infection time [hr];Assay;EC50 [uM];Result ;Cytotox assay ;CC50 [uM];URL
+ribavirin;NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O;;;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;109,5;;CCK8;>400;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+nafamostat;NC(=N)NC1=CC=C(C=C1)C(=O)OC1=CC2=C(C=C1)C=C(C=C2)C(N)=N;Buipel;serine protease inhibitor;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;22,5;;CCK8;>100;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+penciclovir;NC1=NC(=O)C2=C(N1)N(CCC(CO)CO)C=N2;;;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;95,96;;CCK8;>400;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+nitazoxanide;CC(=O)OC1=CC=CC=C1C(=O)NC1=NC=C(S1)[N+]([O-])=O;;;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;2,12;;CCK8;35,53;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+chloroquine;CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12;;;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;1,13;;CCK8;>100;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+remdesivir ;CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)C1=CC=C2N1N=CN=C2N)OC1=CC=CC=C1;GS5734;;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;0,77;;CCK8;>100;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+favipiravir;;T-705;;48hr with virus;clinical nCoV;Vero E6;0,05;48;qRT-PCR;61,88;;CCK8;>400;https://www.ncbi.nlm.nih.gov/pubmed/32020029
+camostat mesilate/camostat;;FOY-305/Foipan;TMPRSS2 protase inhib.;pre 100uM/2hr/37C;isolate Munich 929 ;Calu-3;0,001;1hr/37C;;;active;;;doi: 10.1016
+hydroxychloroquine;;QuensylTM, PlaquenilTM, HydroquinTM, DolquineTM, QuinoricT;elevates the pH in endosomes;2hr pre inf. or no pre / 24 and 48 inc.;;Vero;0,01;24;qRT-PCR;0,72;;;;Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237.
+chloroquine;;Resochi;inhibits terminal phosphorylation of ACE2;;;Vero;0,01;24;qRT-PCR;5,47;;;;Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237.
+Apilimod;;;Phosphoinositide kinase;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;0,023;;;;https://doi.org/10.1101/2020.04.16.044016 
+Z LVG- CHN2;;;Cystein protease;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;0,19;;;;https://doi.org/10.1101/2020.04.16.044016 
+MDL 28170;;;Cystein protease;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;0,22;;;;https://doi.org/10.1101/2020.04.16.044016 
+VBY-825;;;Cystein protease;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~0.3;;;;https://doi.org/10.1101/2020.04.16.044016 
+ONO 5334;;;Cystein protease;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~0.5;;;;https://doi.org/10.1101/2020.04.16.044016 
+remdesivir ;;;antiviral;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;0,62;;;;https://doi.org/10.1101/2020.04.16.044016 
+AMG-2674;;;ion channel;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~0.95;;;;https://doi.org/10.1101/2020.04.16.044016 
+HanfangchiA;;;ion channel;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~1.1;;;;https://doi.org/10.1101/2020.04.16.044016 
+YH-1238;;;proton pump;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~0.95;;;;https://doi.org/10.1101/2020.04.16.044016 
+MLN-3897;;;G prot. coupled receptor;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;0,14;;;;https://doi.org/10.1101/2020.04.16.044016 
+SDZ-62-434;;;G prot. coupled receptor;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;0,75;;;;https://doi.org/10.1101/2020.04.16.044016 
+SB-616234-A;;;G prot. coupled receptor;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~1.2;;;;https://doi.org/10.1101/2020.04.16.044016 
+8(3-chlorostyryl)caffeine;;;G prot. coupled receptor;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;1,6;;;;https://doi.org/10.1101/2020.04.16.044016 
+N-tert-Butylisoquine;CC(C)(C)NCC1=C(C=C(C=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O;;Chloroquine derivative;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~1.2;;;;https://doi.org/10.1101/2020.04.16.044016 
+SL-11128;;;unspecified;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~0.25;;;;https://doi.org/10.1101/2020.04.16.044016 
+Elopiprazole;;;unspecified;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~1.1;;;;https://doi.org/10.1101/2020.04.16.044016 
+Astemizole;;;unspecified;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~1.1;;;;https://doi.org/10.1101/2020.04.16.044016 
+KW8232;;;unspecified;16 hr preinc+24hr;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;0,75;24;Immunofluorescence on Celigo  Image  Cytometer;~1.2;;;;https://doi.org/10.1101/2020.04.16.044016 
+1-Deoxynojirimycin;;;?-glucosidase inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+4E1Rcat;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+4E2RCat;;;eIF4E/G PPI inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+4EGI-1;;;Translation Initiation Targets;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+4EGI-1;;;Translation Initiation Targets; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+ABBV-744;;;BRD inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+ABBV-744;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+AC-55541;;;PAR agonist;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+AC-55541;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Apicidin;;;HDAC inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Apicidin;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inconclusive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+AZ3451;;;PAR2 negative allosteric modulator ;2hr preinc.+48hr;wt;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+AZ3451;;;mitochondrial ribosomes; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Azithromycin;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;weak/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Bafilomycin A1;;;ATPase inhibitor ;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Bafilomycin A1;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+BD1008;;;Sigma1 agonist; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Camostat;;;Serine protease 1 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Camostat;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Captopril;;;ACE inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Captopril;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Carbapentane;;;"Sigma1 agonist
+Sigma2 binder"; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+CB5083;;;p97 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;agonist;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Chloramphenicol;;;mitochondrial ribosome inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Clemastine;;;Sigma 1/2 binder;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Clemastine;;;Sigma 1/2 binder; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inconclusive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Cloperastine;;;Sigma 1/2 binder;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Cloperastine;;;Sigma 1/2 binder; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Compound 10;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Compound 10;;;PI4K-IIIß inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Compound 2;;;Cyclophilin inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Compound 2;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+CPI-0610;;;BRD inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+CPI-0610;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Daunorubicin;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;agonist;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Daunorubicin;;;Topoisomerase inhibitor ; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+DBeQ;;;p97 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+dBET6;;;Degrades BRD proteins;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+dBET6;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Dextromethorphan;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Dextromethorphan;;;Sigma 1 binder; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+E-52862;;;Sigma 1 antagonist ;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+E-52862;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+H-89;;;Protein kinase A inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+H-89;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Haloperidol;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Haloperidol;;;"Sigma 1 antagonist
+Sigma 2 agonist"; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Hydroxychloroquine;;;Sigma 1/2 binder;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Ifenprodil;;;"Sigma1 agonist
+Sigma2 binder"; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Indomethacin;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Indomethacin;;;Prostaglandin E2 synthase inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+JQ1;;;BRD inhibitor ;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;Partial active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+JQ1;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Lisinopril;;;ACE inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Lisinopril;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Loratadine;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Loratadine;;;Histamine 1 receptor antagonist; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Lovastatin;;;HMG-CoA reductase inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;weak/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Luminespib;;;HSP90B1;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;U-shaped response;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Merimepodib;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Merimepodib;;;IMPDH inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inconclusive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Metformin;;;MRC 1 inhibitor (indirect);2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Metformin;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;retest at higher dose;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Midostaurin;;;Multi-targeted protein kinase inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;agonist;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Midostaurin;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Minoxidil;;;PLOD inhibitor ; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+ML240;;;p97 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+ML240;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Mycophenolic acid;;;IMPDH inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Mycophenolic acid;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+MZ1;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+MZ1;;;Degrades BRD proteins; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Nafamostat;;;Serine protease 1 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Nafamostat;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Nitazoxanide;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;parital/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Olanzapine;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Onalespib;;;HSP90B1;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;parital inhibition;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Pazopanib;;;Type-1 kinase inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Pazopanib;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+PB28;;;Sigma 1/2 modulator;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+PB28;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+PD-144418;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;weak activity/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+PD-144418;;;Sigma 1 antagonist ; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Pepstatin;;;protease inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+PF-846;;;Ribosomal inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;weak/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+PF-846;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Pimozide;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Pioglitazone;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Ponatinib;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Ponatinib;;;RIPK1 inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Progesterone;;;"Sigma1 antagonist
+Sigma2 binder"; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+PS3061;;;Sec61 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+PS3061;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inconclusive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Quercetin;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+RapaLink-1;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Rapamycin (Sirolimus);;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;weak/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Rapamycin (Sirolimus);;;mTOR inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Ribavirin;;;IMPDH inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Ribavirin;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Rimcazole;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+RP101 (Brivudine);;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+RP101 (Brivudine);;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+RS-PPCC;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+RS-PPCC;;;Sigma 1 agonist; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Ruxolitinib;;;Multi-targeted protein kinase inhibitor ;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;agonist/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Ruxolitinib;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+RVX-208;;;BRD2/4 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+RVX-208;;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Sapanisertib (INK128/MlN128);;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;weak/inconclusive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Sapanisertib (INK128/MlN128);;;mTOR inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Silmitasertib (CX-4945);;;CK2 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Siramesine;;;"Sigma1 agonist
+Sigma2 agonist"; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+S-verapamil;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+S-verapamil;;;Calcium channel, drug efflux transporter inhibitior; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Ternatin 4 (DA3);;;eEF1A inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Ternatin 4 (DA3);;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Tomivosertib (eFT-508);;;MNK1/2 inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Tomivosertib (eFT-508);;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Valproic Acid;;;;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;inactive;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Valproic Acid;;;HDAC2 inhibitor ; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+XL413;;;CDC7 inhibitor; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;inactive;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+Zotatifin (eFT226);;;EIF4a inhibitor;2hr preinc.+48hr;;Vero E6;0,025;;Immunofluorescence on Celigo  Image  Cytometer;;active;plaque assay;;https://doi.org/10.1038/s41586-020-2286-9
+Zotatifin (eFT226);;;; 1hr preinc +48hr ;SARS-CoV-2, isolate France/IDF0372/2020;Vero E6;0,1;1hr/37C;qRT-PCR;;Active;Alamar Blue;;https://doi.org/10.1038/s41586-020-2286-9
+;;;;;;;;;;;;;;
+Ebselem;;;;;;;;;in vitro FRET assay;0,67;;;;https://doi.org/10.1038/s41586-020-2223-y
+Disulfiram;;;;;;;;;in vitro FRET assay;9,35;;;;https://doi.org/10.1038/s41586-020-2223-y
+Tideglusib;;;;;;;;;in vitro FRET assay;1,55;;;;https://doi.org/10.1038/s41586-020-2223-y
+Carmofur;;;;;;;;;in vitro FRET assay;1,83;;;;https://doi.org/10.1038/s41586-020-2223-y
+Shikonin;;;;;;;;;in vitro FRET assay;15,75;;;;https://doi.org/10.1038/s41586-020-2223-y
+PX-12;;;;;;;;;in vitro FRET assay;21,39;;;;https://doi.org/10.1038/s41586-020-2223-y
+N3;;;inhibit multiple CoV Mpros;;;;;;;;;;133;https://doi.org/10.1038/s41586-020-2223-y
+N3;;;inhibit multiple CoV Mpros;1hr inc with virus+inhib.;;Vero 6;;;plaque reduction;16,77;;;;https://doi.org/10.1038/s41586-020-2223-y
+Ebselem;;;;1hr inc with virus+inhib.;;Vero 6;;;plaque reduction;4,67;;;;https://doi.org/10.1038/s41586-020-2223-y
+Cinanserin;;;;;;;;;in vitro FRET assay;125;;;;https://doi.org/10.1038/s41586-020-2223-y
+Cinanserin;;;;pre 1hr +2hr with virus;;Vero 6;0,05;2hr virus+24hr;qRT-PCR;20,61;;CCK8;>200;https://doi.org/10.1038/s41586-020-2223-y
+Abemaciclib  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;6,62;;;;https://doi.org/10.1101/2020.05.12.090035 
+Abemaciclib  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;43,7;;;;https://doi.org/10.1101/2020.05.12.090035 
+Amodiaquine dihydrochloride 5.15 ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;5,15;;;;https://doi.org/10.1101/2020.05.12.090035 
+Amodiaquine dihydrochloride 5.15 ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;>50;;;;https://doi.org/10.1101/2020.05.12.090035 
+Anidulafungin;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;4,64;;;;https://doi.org/10.1101/2020.05.12.090035 
+Anidulafungin;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;17,23;;;;https://doi.org/10.1101/2020.05.12.090035 
+Bazedoxifene ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;3,44;;;;https://doi.org/10.1101/2020.05.12.090035 
+Bazedoxifene ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;12,63;;;;https://doi.org/10.1101/2020.05.12.090035 
+Berbamine hydrochloride  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;7,87;;;;https://doi.org/10.1101/2020.05.12.090035 
+Berbamine hydrochloride  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;>50;;;;https://doi.org/10.1101/2020.05.12.090035 
+Cepharanthine  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;4,47;;;;https://doi.org/10.1101/2020.05.12.090035 
+Cepharanthine  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;30;;;;https://doi.org/10.1101/2020.05.12.090035 
+Chloroquine ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;7,28;;;;https://doi.org/10.1101/2020.05.12.090035 
+Chloroquine ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;69,2;;;;https://doi.org/10.1101/2020.05.12.090035 
+Ciclesonide ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;4,33;;;;https://doi.org/10.1101/2020.05.12.090035 
+Ciclesonide ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;10,6;;;;https://doi.org/10.1101/2020.05.12.090035 
+Cyclosporine  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;5,82;;;;https://doi.org/10.1101/2020.05.12.090035 
+Cyclosporine  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;4,69;;;;https://doi.org/10.1101/2020.05.12.090035 
+Digitoxin  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;0,23;;;;https://doi.org/10.1101/2020.05.12.090035 
+Digitoxin  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;0,16;;;;https://doi.org/10.1101/2020.05.12.090035 
+Digoxin ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;0,19;;;;https://doi.org/10.1101/2020.05.12.090035 
+Digoxin ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;0,72;;;;https://doi.org/10.1101/2020.05.12.090035 
+Eltrombopag ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;8,27;;;;https://doi.org/10.1101/2020.05.12.090035 
+Eltrombopag ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;8,38;;;;https://doi.org/10.1101/2020.05.12.090035 
+Gilteritinib  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;6,76;;;;https://doi.org/10.1101/2020.05.12.090035 
+Gilteritinib  ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;>50;;;;https://doi.org/10.1101/2020.05.12.090035 
+Hexachlorophene  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;0,9;;;;https://doi.org/10.1101/2020.05.12.090035 
+Hexachlorophene  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;1,48;;;;https://doi.org/10.1101/2020.05.12.090035 
+Hydroxyprogesterone caproate;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;6,3;;;;https://doi.org/10.1101/2020.05.12.090035 
+Hydroxyprogesterone caproate;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;3,87;;;;https://doi.org/10.1101/2020.05.12.090035 
+Ivacaftor ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;6,57;;;;https://doi.org/10.1101/2020.05.12.090035 
+Ivacaftor ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;11,55;;;;https://doi.org/10.1101/2020.05.12.090035 
+Loperamide hydrochloride ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;9,27;;;;https://doi.org/10.1101/2020.05.12.090035 
+Loperamide hydrochloride ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;12,53;;;;https://doi.org/10.1101/2020.05.12.090035 
+Lopinavir ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;9,12;;;;https://doi.org/10.1101/2020.05.12.090035 
+Lopinavir ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;21,7;;;;https://doi.org/10.1101/2020.05.12.090035 
+Mefloquine ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;4,33;;;;https://doi.org/10.1101/2020.05.12.090035 
+Mefloquine ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence; >50;;;;https://doi.org/10.1101/2020.05.12.090035 
+Nafamostat mesylate ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;0,0022;;;;https://doi.org/10.1101/2020.05.12.090035 
+Nafamostat mesylate ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;13,88;;;;https://doi.org/10.1101/2020.05.12.090035 
+Niclosamide  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;0,28;;;;https://doi.org/10.1101/2020.05.12.090035 
+Niclosamide  ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;0,84;;;;https://doi.org/10.1101/2020.05.12.090035 
+Ouabain ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;<0.1 ;;;;https://doi.org/10.1101/2020.05.12.090035 
+Ouabain ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;<0.1;;;;https://doi.org/10.1101/2020.05.12.090035 
+Oxyclozanide ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;3,71;;;;https://doi.org/10.1101/2020.05.12.090035 
+Oxyclozanide ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;6,78;;;;https://doi.org/10.1101/2020.05.12.090035 
+Proscillaridin;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;2,04;;;;https://doi.org/10.1101/2020.05.12.090035 
+Proscillaridin;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;5,95;;;;https://doi.org/10.1101/2020.05.12.090035 
+Remdesivir ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;1,3;;;;https://doi.org/10.1101/2020.05.12.090035 
+Remdesivir ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;11,41;;;;https://doi.org/10.1101/2020.05.12.090035 
+Salinomycin sodium ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;0,24;;;;https://doi.org/10.1101/2020.05.12.090035 
+Salinomycin sodium ;;; ;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;0,5;;;;https://doi.org/10.1101/2020.05.12.090035 
+Tetrandrine ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Vero;0,1;24hr;Immunofluorescence;3;;;;https://doi.org/10.1101/2020.05.12.090035 
+Tetrandrine ;;;;pre 24hr +24hr with virus;SARS-CoV-2 (?CoV/KOR/KCDC03/2020);Calu-3;0,1;24hr;Immunofluorescence;13,5;;;;https://doi.org/10.1101/2020.05.12.090035 
