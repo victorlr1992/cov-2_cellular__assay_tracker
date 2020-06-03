@@ -14,7 +14,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
   </head>
 
   <body>
@@ -43,7 +42,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/figures/">Figures</a>
         </li>-->
-		<li class="nav-item">
+		    <li class="nav-item">
           <a class="nav-link" href="/methods/">Zitzmann experimental methods</a>
         </li>
         <li class="nav-item">
@@ -58,16 +57,16 @@
         <!-- Change these to match your column names in the appropriate order -->
         <thead>
          <tr>
-         <th>Compound Name</th>
-		 <th>Alternative name in publication</th>
-		 <th>EC50 [uM]</th>
-		 <th>Result</th>
-		 <th>CC50 [uM]</th>
-		 <th>virus</th>
-		 <th>Cell type</th>
-		 <th>Reported activity in URL</th>
-		 <th>Reference</th>
-		 <th>Smiles code</th>
+          <th>Compound Name</th>
+		      <th>Alternative name in publication</th>
+		      <th>EC50 [uM]</th>
+		      <th>Result</th>
+		      <th>CC50 [uM]</th>
+		      <th>virus</th>
+		      <th>Cell type</th>
+      		<th>Reported activity in URL</th>
+      		<th>Reference</th>
+      		<th>Smiles code</th>
          </tr>
         </thead>
         <tbody></tbody>
@@ -106,7 +105,8 @@
     <!-- Something like https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/curren_data.json-->
     <!-- The explanations for what all this does you can get an idea of by reading about DataTable -->
     <!-- Most of it can probably mostly stay the same for you except the columnDefs parameter which I use to make some specific columns bigger as needed in my data -->
-    <script type="text/javascript">
+
+      <script type="text/javascript">
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
             ajax:
@@ -131,8 +131,7 @@
             searchPanes: {
               container: '.searchPanes',
               cascadePanes: true,
-              threshold: .5},
-            columnDefs: [{width: 30, targets: [9, 10, 13]}]
+              threshold: .5}
         });
 
         new $.fn.dataTable.Buttons( table, {
