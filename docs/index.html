@@ -110,7 +110,7 @@
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
             ajax:
-              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/database",
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/database.json",
             dom: 'lfBrtip',
             buttons: [{extend:'searchPanes', text: 'Filter', config: {
                     cascadePanes: true
@@ -132,7 +132,7 @@
               container: '.searchPanes',
               cascadePanes: true,
               threshold: .5},
-            columnDefs: [{width: 40, targets: [9, 10]}]
+            columnDefs: [{width: 30, targets: [9, 10, 13]}]
         });
 
         new $.fn.dataTable.Buttons( table, {
