@@ -1,3774 +1,874 @@
 {
   "data": [
     [
-      "ribavirin",
-      "nan",
-      "109.5",
-      "nan",
-      ">400",
-      "clinical nCoV",
-      "Vero E6",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
-      "nan"
-    ],
-    [
-      "nafamostat",
-      "Buipel",
-      "22.5",
-      "nan",
-      ">100",
-      "clinical nCoV",
-      "Vero E6",
-      "serine protease inhibitor",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "NC(=N)NC1=CC=C(C=C1)C(=O)OC1=CC2=C(C=C1)C=C(C=C2)C(N)=N",
-      "nan"
-    ],
-    [
-      "penciclovir",
-      "nan",
-      "95.96",
-      "nan",
-      ">400",
-      "clinical nCoV",
-      "Vero E6",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "NC1=NC(=O)C2=C(N1)N(CCC(CO)CO)C=N2",
-      "nan"
-    ],
-    [
-      "nitazoxanide",
-      "nan",
-      "2.12",
-      "nan",
-      "35.53",
-      "clinical nCoV",
-      "Vero E6",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "CC(=O)OC1=CC=CC=C1C(=O)NC1=NC=C(S1)[N+]([O-])=O",
-      "nan"
-    ],
-    [
-      "chloroquine",
-      "nan",
-      "1.13",
-      "nan",
-      ">100",
-      "clinical nCoV",
-      "Vero E6",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12",
-      "nan"
-    ],
-    [
-      "remdesivir ",
-      "GS5734",
-      "0.77",
-      "nan",
-      ">100",
-      "clinical nCoV",
-      "Vero E6",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)C1=CC=C2N1N=CN=C2N)OC1=CC=CC=C1",
-      "nan"
-    ],
-    [
-      "favipiravir",
-      "T-705",
-      "61.88",
-      "nan",
-      ">400",
-      "clinical nCoV",
-      "Vero E6",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32020029",
-      "nan",
-      "nan"
-    ],
-    [
-      "camostat mesilate/camostat",
-      "FOY-305/Foipan",
-      "nan",
-      "active",
-      "nan",
-      "isolate Munich 929 ",
-      "Calu-3",
-      "TMPRSS2 protase inhib.",
-      "https://doi.org/10.1016/j.cell.2020.02.052",
-      "nan",
-      "nan"
-    ],
-    [
-      "hydroxychloroquine",
-      "QuensylTM. PlaquenilTM. HydroquinTM. DolquineTM. QuinoricT",
-      "0.72",
-      "nan",
-      "nan",
-      "nan",
-      "Vero",
-      "elevates the pH in endosomes",
-      "Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237.",
-      "nan",
-      "nan"
-    ],
-    [
-      "chloroquine",
-      "Resochi",
-      "5.47",
-      "nan",
-      "nan",
-      "nan",
-      "Vero",
-      "inhibits terminal phosphorylation of ACE2",
-      "Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237.",
-      "nan",
-      "nan"
-    ],
-    [
-      "Apilimod",
-      "nan",
-      "0.023",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "Phosphoinositide kinase",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Z LVG- CHN2",
-      "nan",
-      "0.19",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "Cystein protease",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "MDL 28170",
-      "nan",
-      "0.22",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "Cystein protease",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "VBY-825",
-      "nan",
-      "~0.3",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "Cystein protease",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "ONO 5334",
-      "nan",
-      "~0.5",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "Cystein protease",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "remdesivir ",
-      "nan",
-      "0.62",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "antiviral",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "AMG-2674",
-      "nan",
-      "~0.95",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "ion channel",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "HanfangchiA",
-      "nan",
-      "~1.1",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "ion channel",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "YH-1238",
-      "nan",
-      "~0.95",
-      "nan",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "proton pump",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "MLN-3897",
-      "nan",
-      "0.14",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "G prot. coupled receptor",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "SDZ-62-434",
-      "nan",
-      "0.75",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "G prot. coupled receptor",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "SB-616234-A",
-      "nan",
-      "~1.2",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "G prot. coupled receptor",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "8(3-chlorostyryl)caffeine",
-      "nan",
-      "1.6",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "G prot. coupled receptor",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "N-tert-Butylisoquine",
-      "nan",
-      "~1.2",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "Chloroquine derivative",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "CC(C)(C)NCC1=C(C=C(C=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O",
-      "nan"
-    ],
-    [
-      "SL-11128",
-      "nan",
-      "~0.25",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "unspecified",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Elopiprazole",
-      "nan",
-      "~1.1",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "unspecified",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Astemizole",
-      "nan",
-      "~1.1",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "unspecified",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "KW8232",
-      "nan",
-      "~1.2",
-      "not reported",
-      "nan",
-      "SARS-CoV-2  USA-WA1/2020 patient derived",
-      "Vero E6",
-      "unspecified",
-      "https://doi.org/10.1101/2020.04.16.044016 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "1-Deoxynojirimycin",
-      "nan",
-      "not reported",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "\u03b1-glucosidase inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "4E1Rcat",
-      "nan",
-      "not reported",
-      "inactive/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "4E2RCat",
-      "nan",
-      "not reported",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "eIF4E/G PPI inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "4EGI-1",
-      "nan",
-      "not reported",
-      "inactive/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Translation Initiation Targets",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "4EGI-1",
-      "nan",
-      "not reported",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Translation Initiation Targets",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "ABBV-744",
-      "nan",
-      "not reported",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "BRD inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "ABBV-744",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "AC-55541",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "PAR agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "AC-55541",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Apicidin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "HDAC inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Apicidin",
-      "nan",
-      "nan",
-      "Inconclusive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "AZ3451",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "wt",
-      "Vero E6",
-      "PAR2 negative allosteric modulator ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "AZ3451",
-      "nan",
-      "nan",
-      "Active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "mitochondrial ribosomes",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Azithromycin",
-      "nan",
-      "nan",
-      "weak/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Bafilomycin A1",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "ATPase inhibitor ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Bafilomycin A1",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "BD1008",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma1 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Camostat",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Serine protease 1 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Camostat",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Captopril",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "ACE inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Captopril",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Carbapentane",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma1 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Carbapentane",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "CB5083",
-      "nan",
-      "nan",
-      "agonist",
-      "nan",
-      "nan",
-      "Vero E6",
-      "p97 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Chloramphenicol",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "mitochondrial ribosome inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Clemastine",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Sigma 1/2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Clemastine",
-      "nan",
-      "nan",
-      "Inconclusive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 1/2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cloperastine",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Sigma 1/2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cloperastine",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 1/2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Compound 10",
-      "nan",
-      "nan",
-      "inactive/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Compound 10",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "PI4K-III\u00df inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Compound 2",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Cyclophilin inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Compound 2",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "CPI-0610",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "BRD inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "CPI-0610",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Daunorubicin",
-      "nan",
-      "nan",
-      "agonist",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Daunorubicin",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Topoisomerase inhibitor ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "DBeQ",
-      "nan",
-      "nan",
-      "inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "p97 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "dBET6",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Degrades BRD proteins",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "dBET6",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Dextromethorphan",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Dextromethorphan",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 1 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "E-52862",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Sigma 1 antagonist ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "E-52862",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "H-89",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Protein kinase A inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "H-89",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Haloperidol",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Haloperidol",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 1 antagonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Haloperidol",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 2 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-10",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hydroxychloroquine",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Sigma 1/2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ifenprodil",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma1 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ifenprodil",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Indomethacin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Indomethacin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Prostaglandin E2 synthase inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "JQ1",
-      "nan",
-      "nan",
-      "Partial active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "BRD inhibitor ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "JQ1",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lisinopril",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "ACE inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lisinopril",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Loratadine",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Loratadine",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Histamine 1 receptor antagonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lovastatin",
-      "nan",
-      "nan",
-      "weak/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "HMG-CoA reductase inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Luminespib",
-      "nan",
-      "nan",
-      "U-shaped response",
-      "nan",
-      "nan",
-      "Vero E6",
-      "HSP90B1",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Merimepodib",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Merimepodib",
-      "nan",
-      "nan",
-      "inconclusive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "IMPDH inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Metformin",
-      "nan",
-      "nan",
-      "inactive/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "MRC 1 inhibitor (indirect)",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Metformin",
-      "nan",
-      "nan",
-      "retest at higher dose",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Midostaurin",
-      "nan",
-      "nan",
-      "agonist",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Multi-targeted protein kinase inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Midostaurin",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Minoxidil",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "PLOD inhibitor ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "ML240",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "p97 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "ML240",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Mycophenolic acid",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "IMPDH inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Mycophenolic acid",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "MZ1",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "MZ1",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Degrades BRD proteins",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Nafamostat",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Serine protease 1 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Nafamostat",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Nitazoxanide",
-      "nan",
-      "nan",
-      "parital/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Olanzapine",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Onalespib",
-      "nan",
-      "nan",
-      "parital inhibition",
-      "nan",
-      "nan",
-      "Vero E6",
-      "HSP90B1",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Pazopanib",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Type-1 kinase inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Pazopanib",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PB28",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Sigma 1/2 modulator",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PB28",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PD-144418",
-      "nan",
-      "nan",
-      "weak activity/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PD-144418",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 1 antagonist ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Pepstatin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "protease inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PF-846",
-      "nan",
-      "nan",
-      "weak/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Ribosomal inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PF-846",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Pimozide",
-      "nan",
-      "nan",
-      "inactive/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Pioglitazone",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ponatinib",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ponatinib",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "RIPK1 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Progesterone",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma1 antagonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Progesterone",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma2 binder",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PS3061",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Sec61 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "PS3061",
-      "nan",
-      "nan",
-      "Inconclusive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Quercetin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RapaLink-1",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Rapamycin (Sirolimus)",
-      "nan",
-      "nan",
-      "weak/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Rapamycin (Sirolimus)",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "mTOR inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ribavirin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "IMPDH inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ribavirin",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Rimcazole",
-      "nan",
-      "nan",
-      "inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RP101 (Brivudine)",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RP101 (Brivudine)",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RS-PPCC",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RS-PPCC",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma 1 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ruxolitinib",
-      "nan",
-      "nan",
-      "agonist/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "Multi-targeted protein kinase inhibitor ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ruxolitinib",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RVX-208",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "BRD2/4 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "RVX-208",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Sapanisertib (INK128/MlN128)",
-      "nan",
-      "nan",
-      "weak/inconclusive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Sapanisertib (INK128/MlN128)",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "mTOR inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Silmitasertib (CX-4945)",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "CK2 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Siramesine",
-      "nan",
-      "nan",
-      "Active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma1 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Siramesine",
-      "nan",
-      "nan",
-      "Active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Sigma2 agonist",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "S-verapamil",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "S-verapamil",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "Calcium channel. drug efflux transporter inhibitior",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ternatin 4 (DA3)",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "eEF1A inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ternatin 4 (DA3)",
-      "nan",
-      "nan",
-      "Active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Tomivosertib (eFT-508)",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "MNK1/2 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Tomivosertib (eFT-508)",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Valproic Acid",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "nan",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Valproic Acid",
-      "nan",
-      "nan",
-      "Inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "HDAC2 inhibitor ",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "XL413",
-      "nan",
-      "nan",
-      "inactive",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "CDC7 inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Zotatifin (eFT226)",
-      "nan",
-      "nan",
-      "active",
-      "nan",
-      "nan",
-      "Vero E6",
-      "EIF4a inhibitor",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "Zotatifin (eFT226)",
-      "nan",
-      "nan",
-      "Active",
-      "nan",
-      "SARS-CoV-2. isolate France/IDF0372/2020",
-      "Vero E6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2286-9",
-      "nan",
-      "nan"
-    ],
-    [
-      "N3",
-      "nan",
-      "16.77",
-      "nan",
-      "133",
-      "nan",
-      "Vero 6",
-      "inhibit multiple CoV Mpros",
-      "https://doi.org/10.1038/s41586-020-2223-y",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ebselem",
-      "nan",
-      "4.67",
-      "nan",
-      "nan",
-      "nan",
-      "Vero 6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2223-y",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cinanserin",
-      "nan",
-      "20.61",
-      "nan",
-      ">200",
-      "nan",
-      "Vero 6",
-      "nan",
-      "https://doi.org/10.1038/s41586-020-2223-y",
-      "nan",
-      "nan"
-    ],
-    [
-      "Abemaciclib  ",
-      "nan",
-      "6.62",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "Yes"
-    ],
-    [
-      "Abemaciclib  ",
-      "nan",
-      "43.7",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Amodiaquine dihydrochloride 5.15 ",
-      "nan",
-      "5.15",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Amodiaquine dihydrochloride 5.15 ",
-      "nan",
-      ">50",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Anidulafungin",
-      "nan",
-      "4.64",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Anidulafungin",
-      "nan",
-      "17.23",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Bazedoxifene ",
-      "nan",
-      "3.44",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Bazedoxifene ",
-      "nan",
-      "12.63",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Berbamine hydrochloride  ",
-      "nan",
-      "7.87",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Berbamine hydrochloride  ",
-      "nan",
-      ">50",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cepharanthine  ",
-      "nan",
-      "4.47",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cepharanthine  ",
-      "nan",
-      "30",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Chloroquine ",
-      "nan",
-      "7.28",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Chloroquine ",
-      "nan",
-      "69.2",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ciclesonide ",
-      "nan",
-      "4.33",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ciclesonide ",
-      "nan",
-      "10.6",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cyclosporine  ",
-      "nan",
-      "5.82",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Cyclosporine  ",
-      "nan",
-      "4.69",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Digitoxin  ",
-      "nan",
-      "0.23",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Digitoxin  ",
-      "nan",
-      "0.16",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Digoxin ",
-      "nan",
-      "0.19",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Digoxin ",
-      "nan",
-      "0.72",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Eltrombopag ",
-      "nan",
-      "8.27",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Eltrombopag ",
-      "nan",
-      "8.38",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Gilteritinib  ",
-      "nan",
-      "6.76",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Gilteritinib  ",
-      "nan",
-      ">50",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hexachlorophene  ",
-      "nan",
-      "0.9",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hexachlorophene  ",
-      "nan",
-      "1.48",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hydroxyprogesterone caproate",
-      "nan",
-      "6.3",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hydroxyprogesterone caproate",
-      "nan",
-      "3.87",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ivacaftor ",
-      "nan",
-      "6.57",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ivacaftor ",
-      "nan",
-      "11.55",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Loperamide hydrochloride ",
-      "nan",
-      "9.27",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Loperamide hydrochloride ",
-      "nan",
-      "12.53",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lopinavir ",
-      "nan",
-      "9.12",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lopinavir ",
-      "nan",
-      "21.7",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Mefloquine ",
-      "nan",
-      "4.33",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Mefloquine ",
-      "nan",
-      " >50",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Nafamostat mesylate ",
-      "nan",
-      "0.0022",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Nafamostat mesylate ",
-      "nan",
-      "13.88",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Niclosamide  ",
-      "nan",
-      "0.28",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Niclosamide  ",
-      "nan",
-      "0.84",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ouabain ",
-      "nan",
-      "<0.1 ",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ouabain ",
-      "nan",
-      "<0.1",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Oxyclozanide ",
-      "nan",
-      "3.71",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Oxyclozanide ",
-      "nan",
-      "6.78",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Proscillaridin",
-      "nan",
-      "2.04",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Proscillaridin",
-      "nan",
-      "5.95",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Remdesivir ",
-      "nan",
-      "1.3",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Remdesivir ",
-      "nan",
-      "11.41",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Salinomycin sodium ",
-      "nan",
-      "0.24",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Salinomycin sodium ",
-      "nan",
-      "0.5",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      " ",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Tetrandrine ",
-      "nan",
-      "3",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Vero",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Tetrandrine ",
-      "nan",
-      "13.5",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020)",
-      "Calu-3",
-      "nan",
-      "https://doi.org/10.1101/2020.05.12.090035 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "cycloheximide",
-      "nan",
-      "0.17",
-      "nan",
-      ">0.5",
-      "patient isolate",
-      "Caco-2",
-      "inhibit translation elongation",
-      "https://doi.org/10.1038/s41586-020-2332-7",
-      "nan",
-      "nan"
-    ],
-    [
-      "emetine",
-      "nan",
-      "0.47",
-      "nan",
-      ">1",
-      "patient isolate",
-      "Caco-2",
-      "inhibits 40S ribosomal protein S14",
-      "https://doi.org/10.1038/s41586-020-2332-7",
-      "nan",
-      "nan"
-    ],
-    [
-      "pladienolide B",
-      "nan",
-      "0.0013",
-      "nan",
-      "0.007",
-      "patient isolate",
-      "Caco-2",
-      "spliceosome inhibitor targeting splicing factor SF3B1",
-      "https://doi.org/10.1038/s41586-020-2332-7",
-      "nan",
-      "nan"
-    ],
-    [
-      "2-deoxy-D-glucose",
-      "nan",
-      "0.41",
-      "nan",
-      "9.09",
-      "patient isolate",
-      "Caco-2",
-      "inhibitor of hexokinase. glycolysis",
-      "https://doi.org/10.1038/s41586-020-2332-7",
-      "nan",
-      "nan"
-    ],
-    [
-      "NMS-873",
-      "nan",
-      "0.025",
-      "toxic effect?",
-      "0.025",
-      "patient isolate",
-      "Caco-2",
-      "small molecule inhibitor of the AAA ATPase p97",
-      "https://doi.org/10.1038/s41586-020-2332-7",
-      "nan",
-      "nan"
-    ],
-    [
-      " Ribavirin",
-      "nan",
-      "0.07",
-      "toxic effect?",
-      "0.07",
-      "patient isolate",
-      "Caco-2",
-      "inhibition of nucleotide synthesi",
-      "https://doi.org/10.1038/s41586-020-2332-7",
-      "nan",
-      "nan"
-    ],
-    [
-      "the pandemic response box ",
-      "400cpds",
-      "nan",
-      " sixteen compounds that showed inhibition of the SARS-CoV-2 after the survival screen",
-      "nan",
-      "SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.17.100404",
-      "nan",
-      "nan"
-    ],
-    [
-      "Retro-2.1 ",
-      "nan",
-      "0.4909",
-      "nan",
-      "50",
-      "SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929",
-      "Vero-E6",
-      "Retrograde transport inhibitor  ",
-      "https://doi.org/10.1101/2020.05.17.100404",
-      "nan",
-      "nan"
-    ],
-    [
-      "Chloroquine",
-      "nan",
-      "1.03",
-      "nan",
-      "50",
-      "SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929",
-      "Vero-E6",
-      "Autophagic proteolysis inhibitor ",
-      "https://doi.org/10.1101/2020.05.17.100404",
-      "nan",
-      "nan"
-    ],
-    [
-      "N-Nonyl  Deoxyno  Jirimycin   (NNDNJ)",
-      "nan",
-      "1.677",
-      "nan",
-      "50",
-      "SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929",
-      "Vero-E6",
-      "ER \u03b1-glucosidase inhibitors ",
-      "https://doi.org/10.1101/2020.05.17.100404",
-      "nan",
-      "nan"
-    ],
-    [
-      "URMC-099-C",
-      "nan",
-      "0.335",
-      "nan",
-      "13.1",
-      "SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929",
-      "Vero-E6",
-      "Mixed-lineage kinase 3 inhibitor",
-      "https://doi.org/10.1101/2020.05.17.100404",
-      "nan",
-      "nan"
-    ],
-    [
-      "Remdesivir",
-      "nan",
-      "1.842",
-      "nan",
-      "50",
-      "SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929",
-      "Vero-E6",
-      "Nucleoside analogue",
-      "https://doi.org/10.1101/2020.05.17.100404",
-      "nan",
-      "nan"
-    ],
-    [
-      "Favipiravir ",
-      "T-705",
-      "207.1",
-      "nan",
-      "> 500",
-      "SARS-CoV-2 strain BavPat1",
-      "Vero-E6",
-      "nucleotide analogue",
-      "https://doi.org/10.1101/2020.05.15.098731",
-      "nan",
-      "nan"
-    ],
-    [
-      "Miglustat",
-      "Zavesca; N-butyl-1-deoxynojirimycin. NB-DNJ",
-      "41\u00b122",
-      "nan",
-      "> 1000",
-      "SARS-CoV-2 strain ICGEB-FVG_5",
-      "Vero-E6",
-      "inhibits \u03b1-24 glucosidases I and II",
-      "https://doi.org/10.1101/2020.05.18.101691",
-      "nan",
-      "nan"
-    ],
-    [
-      "oseltamivir carboxylic acid",
-      "nan",
-      ">100",
-      "inactive",
-      "nan",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "neuraminidase inhibitor",
-      "https://doi.org/10.1101/2020.05.15.20102392",
-      "nan",
-      "nan"
-    ],
-    [
-      "GZ-161",
-      "nan",
-      "~2",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (GISAID accession EPI_ISL_406862)",
-      "Vero-E6",
-      "inhibitor of  glucosylceramide synthase (GCS)",
-      " https://doi.org/10.1101/2020.05.18.103283",
-      "nan",
-      "nan"
-    ],
-    [
-      "GZ-346",
-      "nan",
-      "~2",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (GISAID accession EPI_ISL_406862)",
-      "Vero-E6",
-      "inhibitor of  glucosylceramide synthase (GCS)",
-      " https://doi.org/10.1101/2020.05.18.103283",
-      "nan",
-      "nan"
-    ],
-    [
-      "Gemcitabine",
-      "nan",
-      "1.24",
-      "active",
-      ">40",
-      "SARS-CoV-2 (WIV04)",
-      "Vero-E6",
-      "inhibition of viral replication",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "lycorine",
-      "nan",
-      "0.31",
-      "active",
-      ">40",
-      "SARS-CoV-2 (WIV04)",
-      "Vero-E6",
-      "inhibition of viral replication",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "oxysophoridine",
-      "nan",
-      "0.18",
-      "active",
-      ">40",
-      "SARS-CoV-2 (WIV04)",
-      "Vero-E6",
-      "inhibition of viral replication",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Chloroquine",
-      "nan",
-      "1.36",
-      "active",
-      ">40",
-      "SARS-CoV-2 (WIV04)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "Gemcitabine",
-      "nan",
-      "n.d.",
-      "active",
-      "nan",
-      "SARS-CoV-2 (WIV04)",
-      "Huh-7",
-      "inhibition of viral replication",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "lycorine",
-      "nan",
-      "n.d.",
-      "active",
-      "nan",
-      "SARS-CoV-2 (WIV04)",
-      "Huh-7",
-      "inhibition of viral replication",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "oxysophoridine",
-      "nan",
-      "n.d.",
-      "active",
-      "nan",
-      "SARS-CoV-2 (WIV04)",
-      "Huh-7",
-      "inhibition of viral replication",
-      "https://doi.org/10.1080/22221751.2020.1772676 ",
-      "nan",
-      "nan"
-    ],
-    [
-      "ROC-325",
-      "nan",
-      "3.28",
-      "nan",
-      ">30",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "inhibit lysosome fusion",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "Clomipramine",
-      "nan",
-      "13.6",
-      "nan",
-      ">30",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "inhibit autophagic flux",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hycanthone",
-      "nan",
-      "5.79",
-      "nan",
-      "14",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "increase lysosomal membrane permeabilization ",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "Verteporfin",
-      "nan",
-      "inactive",
-      "inactive",
-      ">30",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "inhibiting autophagic flux",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "Chloroquine",
-      "nan",
-      "2.01",
-      "nan",
-      ">30",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "inhibit lysosome fusion",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "hydroxychloroquine",
-      "nan",
-      "4.47",
-      "nan",
-      ">30",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "inhibit lysosome fusion",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "Mefloquine",
-      "nan",
-      "3.85",
-      "nan",
-      "8.78",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "autophagic flux",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "remdesivir ",
-      "nan",
-      "7.04",
-      "nan",
-      "nan",
-      "SARS-CoV-2",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.16.091520",
-      "nan",
-      "nan"
-    ],
-    [
-      "CbAE-1",
-      "nan",
-      "0.7344",
-      "nan",
-      "653.1",
-      "pseudo SARS-CoV-2",
-      "HEK-293T-ACE2",
-      "secreted bacterial lipase",
-      " https://doi.org/10.1101/2020.05.22.109900",
-      "nan",
-      "nan"
-    ],
-    [
-      "CbAE-1",
-      "nan",
-      "2.991",
-      "nan",
-      "653.1",
-      "SARS-CoV-2",
-      "Vero",
-      "secreted bacterial lipase",
-      " https://doi.org/10.1101/2020.05.22.109900",
-      "nan",
-      "nan"
-    ],
-    [
-      "CbAE-2",
-      "nan",
-      "1.041",
-      "nan",
-      ">1000",
-      "pseudo SARS-CoV-2",
-      "HEK-293T-ACE2",
-      "secreted bacterial lipase",
-      " https://doi.org/10.1101/2020.05.22.109900",
-      "nan",
-      "nan"
-    ],
-    [
-      "CbAE-2",
-      "nan",
-      "2.49",
-      "nan",
-      ">1000",
-      "SARS-CoV-2",
-      "Vero",
-      "secreted bacterial lipase",
-      " https://doi.org/10.1101/2020.05.22.109900",
-      "nan",
-      "nan"
-    ],
-    [
-      "Simeprevir",
-      "nan",
-      "4.082",
-      "nan",
-      "19.33",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "protease inhibitor ",
-      " https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Redesivir",
-      "nan",
-      "4.269",
-      "nan",
-      ">200",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nucleoside analogue ",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "#NAME?",
-      "nan"
-    ],
-    [
-      "Bromocriptine Mesylate",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Bictegravir",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Entecavir",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      " Zidovudine",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Sofosbuvir",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Atovaquone",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Daclatasvir",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Saquinavir",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "Asunaprevir",
-      "nan",
-      ">10",
-      "nan",
-      "nan",
-      "SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.116020",
-      "nan",
-      "nan"
-    ],
-    [
-      "chloroquine diphosphate. racemic ",
-      "nan",
-      "1.801",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "chloroquine diphosphate. R-",
-      "nan",
-      "1.975",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "chloroquine diphosphate. S-",
-      "nan",
-      "1.761",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "hydroxychloroquine sulfate. racemic",
-      "nan",
-      "1.752",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "hydroxychloroquine sulfate. R-",
-      "nan",
-      "2.445",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "hydroxychloroquine sulfate. S-",
-      "nan",
-      "1.444",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "azithromycin",
-      "nan",
-      "~10",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Genebank accession no. MT123290.1)",
-      "Vero-E6",
-      "nan",
-      "https://doi.org/10.1101/2020.05.26.114033",
-      "nan",
-      "nan"
-    ],
-    [
-      "Amiodarone",
-      "nan",
-      "0.052",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Bosutinib",
-      "nan",
-      "0.02",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Clofazamine",
-      "nan",
-      "0.084",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Gilteritinib  ",
-      "nan",
-      "0.224",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Verapamil",
-      "nan",
-      "0.533",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Thioguanine",
-      "nan",
-      "0.216",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Z-FA-FMK",
-      "nan",
-      "0.107",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Metociopramide",
-      "nan",
-      "0.468",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "S1RA",
-      "nan",
-      "0.222",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Entecavir",
-      "nan",
-      "0.042",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Remdesivir",
-      "nan",
-      "0.006",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Niclosamide  ",
-      "nan",
-      "0.142",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Fedratinib",
-      "nan",
-      "0.024",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lomitapide",
-      "nan",
-      "0.766",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Lactoferrin",
-      "nan",
-      "0.308",
-      "nan",
-      ">1",
-      "SARS-CoV-2 WA1",
-      "Huh-7",
-      "nan",
-      "https://doi.org/10.1101/2020.05.27.117184",
-      "nan",
-      "nan"
-    ],
-    [
-      "Interferon-\u03b21A",
-      "IFN-\u03b21a",
-      "0.76 IU/ml",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (USA-WA1/2020)",
-      "Vero",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32360182",
-      "nan",
-      "nan"
-    ],
-    [
-      "Interferon-\u0251",
-      "IFN-\u03b1",
-      "1.35 IU/ml\u00a0",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (USA-WA1/2020)",
-      "Vero",
-      "nan",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32360182",
-      "nan",
-      "nan"
-    ],
-    [
-      "Remdesivir",
-      "nan",
-      "0.826",
-      "nan",
-      ">20",
-      "SARS-CoV-2",
-      "VeroE6",
-      "nan",
-      "https://doi.org/10.21203/rs.3.rs-30934/v1",
-      "nan",
-      "nan"
-    ],
-    [
-      "Hydroxychloroquine",
-      "nan",
-      "0.733",
-      "nan",
-      ">20",
-      "SARS-CoV-2",
-      "VeroE6",
-      "nan",
-      "https://doi.org/10.21203/rs.3.rs-30934/v1",
-      "nan",
-      "nan"
-    ],
-    [
-      "Famotidine",
-      "nan",
-      ">100",
-      "nan",
-      ">100",
-      "SARS-CoV-2",
-      "VeroE6",
-      "nan",
-      "https://doi.org/10.21203/rs.3.rs-30934/v1",
-      "nan",
-      "nan"
-    ],
-    [
-      "Ivermectin",
-      "nan",
-      "2.2 - 2.8",
-      "nan",
-      "nan",
-      "SARS-CoV-2 (Australia/VIC01/2020)",
-      "Vero/hSLAM",
-      "binds to and destabilises the Imp\u03b1/\u03b21 heterodimer",
-      "https://www.ncbi.nlm.nih.gov/pubmed/32251768",
-      "nan",
-      "yes"
-    ],
-    [
-      "Remdesivir",
-      "nan",
-      "0.38",
-      "nan",
-      ">100 ",
-      "SARS-CoV-2 patient derived",
-      "Caco-2",
-      "nan",
-      " https://doi.org/10.1016/j.ijid.2020.05.085",
-      "nan",
-      "nan"
-    ],
-    [
-      "Darunavir",
-      "nan",
-      ">100",
-      "not active",
-      ">100 ",
-      "SARS-CoV-2 patient derived",
-      "Caco-2",
-      "nan",
-      " https://doi.org/10.1016/j.ijid.2020.05.085",
-      "nan",
-      "nan"
+      "ribavirin;;109.5;;>400;clinical nCoV;Vero E6;;https://www.ncbi.nlm.nih.gov/pubmed/32020029;NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O;"
+    ],
+    [
+      "nafamostat;Buipel;22.5;;>100;clinical nCoV;Vero E6;serine protease inhibitor;https://www.ncbi.nlm.nih.gov/pubmed/32020029;NC(=N)NC1=CC=C(C=C1)C(=O)OC1=CC2=C(C=C1)C=C(C=C2)C(N)=N;"
+    ],
+    [
+      "penciclovir;;95.96;;>400;clinical nCoV;Vero E6;;https://www.ncbi.nlm.nih.gov/pubmed/32020029;NC1=NC(=O)C2=C(N1)N(CCC(CO)CO)C=N2;"
+    ],
+    [
+      "nitazoxanide;;2.12;;35.53;clinical nCoV;Vero E6;;https://www.ncbi.nlm.nih.gov/pubmed/32020029;CC(=O)OC1=CC=CC=C1C(=O)NC1=NC=C(S1)[N+]([O-])=O;"
+    ],
+    [
+      "chloroquine;;1.13;;>100;clinical nCoV;Vero E6;;https://www.ncbi.nlm.nih.gov/pubmed/32020029;CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12;"
+    ],
+    [
+      "remdesivir ;GS5734;0.77;;>100;clinical nCoV;Vero E6;;https://www.ncbi.nlm.nih.gov/pubmed/32020029;CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)C1=CC=C2N1N=CN=C2N)OC1=CC=CC=C1;"
+    ],
+    [
+      "favipiravir;T-705;61.88;;>400;clinical nCoV;Vero E6;;https://www.ncbi.nlm.nih.gov/pubmed/32020029;;"
+    ],
+    [
+      "camostat mesilate/camostat;FOY-305/Foipan;;active;;isolate Munich 929 ;Calu-3;TMPRSS2 protase inhib.;https://doi.org/10.1016/j.cell.2020.02.052;;"
+    ],
+    [
+      "hydroxychloroquine;QuensylTM. PlaquenilTM. HydroquinTM. DolquineTM. QuinoricT;0.72;;;;Vero;elevates the pH in endosomes;Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237.;;"
+    ],
+    [
+      "chloroquine;Resochi;5.47;;;;Vero;inhibits terminal phosphorylation of ACE2;Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237.;;"
+    ],
+    [
+      "Apilimod;;0.023;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;Phosphoinositide kinase;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "Z LVG- CHN2;;0.19;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;Cystein protease;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "MDL 28170;;0.22;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;Cystein protease;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "VBY-825;;~0.3;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;Cystein protease;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "ONO 5334;;~0.5;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;Cystein protease;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "remdesivir ;;0.62;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;antiviral;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "AMG-2674;;~0.95;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;ion channel;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "HanfangchiA;;~1.1;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;ion channel;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "YH-1238;;~0.95;;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;proton pump;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "MLN-3897;;0.14;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;G prot. coupled receptor;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "SDZ-62-434;;0.75;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;G prot. coupled receptor;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "SB-616234-A;;~1.2;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;G prot. coupled receptor;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "8(3-chlorostyryl)caffeine;;1.6;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;G prot. coupled receptor;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "N-tert-Butylisoquine;;~1.2;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;Chloroquine derivative;https://doi.org/10.1101/2020.04.16.044016 ;CC(C)(C)NCC1=C(C=C(C=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O;"
+    ],
+    [
+      "SL-11128;;~0.25;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;unspecified;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "Elopiprazole;;~1.1;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;unspecified;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "Astemizole;;~1.1;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;unspecified;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "KW8232;;~1.2;not reported;;SARS-CoV-2  USA-WA1/2020 patient derived;Vero E6;unspecified;https://doi.org/10.1101/2020.04.16.044016 ;;"
+    ],
+    [
+      "1-Deoxynojirimycin;;not reported;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;\u03b1-glucosidase inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "4E1Rcat;;not reported;inactive/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "4E2RCat;;not reported;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;eIF4E/G PPI inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "4EGI-1;;not reported;inactive/inconclusive;;;Vero E6;Translation Initiation Targets;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "4EGI-1;;not reported;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Translation Initiation Targets;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "ABBV-744;;not reported;inactive;;;Vero E6;BRD inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "ABBV-744;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "AC-55541;;;;;;Vero E6;PAR agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "AC-55541;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Apicidin;;;inactive;;;Vero E6;HDAC inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Apicidin;;;Inconclusive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "AZ3451;;;inactive;;wt;Vero E6;PAR2 negative allosteric modulator ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "AZ3451;;;Active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;mitochondrial ribosomes;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Azithromycin;;;weak/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Bafilomycin A1;;;;;;Vero E6;ATPase inhibitor ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Bafilomycin A1;;;active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "BD1008;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma1 agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Camostat;;;inactive;;;Vero E6;Serine protease 1 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Camostat;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Captopril;;;inactive;;;Vero E6;ACE inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Captopril;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Carbapentane;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma1 agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Carbapentane;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "CB5083;;;agonist;;;Vero E6;p97 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Chloramphenicol;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;mitochondrial ribosome inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Clemastine;;;active;;;Vero E6;Sigma 1/2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Clemastine;;;Inconclusive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 1/2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Cloperastine;;;active;;;Vero E6;Sigma 1/2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Cloperastine;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 1/2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Compound 10;;;inactive/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Compound 10;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;PI4K-III\u00df inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Compound 2;;;inactive;;;Vero E6;Cyclophilin inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Compound 2;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "CPI-0610;;;inactive;;;Vero E6;BRD inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "CPI-0610;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Daunorubicin;;;agonist;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Daunorubicin;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Topoisomerase inhibitor ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "DBeQ;;;inconclusive;;;Vero E6;p97 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "dBET6;;;active;;;Vero E6;Degrades BRD proteins;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "dBET6;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Dextromethorphan;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Dextromethorphan;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 1 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "E-52862;;;inactive;;;Vero E6;Sigma 1 antagonist ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "E-52862;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "H-89;;;;;;Vero E6;Protein kinase A inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "H-89;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Haloperidol;;;active;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Haloperidol;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 1 antagonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Haloperidol;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 2 agonist;https://doi.org/10.1038/s41586-020-2286-10;;"
+    ],
+    [
+      "Hydroxychloroquine;;;active;;;Vero E6;Sigma 1/2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ifenprodil;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma1 agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ifenprodil;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Indomethacin;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Indomethacin;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Prostaglandin E2 synthase inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "JQ1;;;Partial active;;;Vero E6;BRD inhibitor ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "JQ1;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Lisinopril;;;inactive;;;Vero E6;ACE inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Lisinopril;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Loratadine;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Loratadine;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Histamine 1 receptor antagonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Lovastatin;;;weak/inconclusive;;;Vero E6;HMG-CoA reductase inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Luminespib;;;U-shaped response;;;Vero E6;HSP90B1;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Merimepodib;;;;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Merimepodib;;;inconclusive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;IMPDH inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Metformin;;;inactive/inconclusive;;;Vero E6;MRC 1 inhibitor (indirect);https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Metformin;;;retest at higher dose;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Midostaurin;;;agonist;;;Vero E6;Multi-targeted protein kinase inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Midostaurin;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Minoxidil;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;PLOD inhibitor ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "ML240;;;inactive;;;Vero E6;p97 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "ML240;;;active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Mycophenolic acid;;;;;;Vero E6;IMPDH inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Mycophenolic acid;;;active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "MZ1;;;active;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "MZ1;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Degrades BRD proteins;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Nafamostat;;;inactive;;;Vero E6;Serine protease 1 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Nafamostat;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Nitazoxanide;;;parital/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Olanzapine;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Onalespib;;;parital inhibition;;;Vero E6;HSP90B1;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Pazopanib;;;inactive;;;Vero E6;Type-1 kinase inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Pazopanib;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PB28;;;active;;;Vero E6;Sigma 1/2 modulator;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PB28;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PD-144418;;;weak activity/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PD-144418;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 1 antagonist ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Pepstatin;;;inactive;;;Vero E6;protease inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PF-846;;;weak/inconclusive;;;Vero E6;Ribosomal inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PF-846;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Pimozide;;;inactive/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Pioglitazone;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ponatinib;;;;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ponatinib;;;active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;RIPK1 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Progesterone;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma1 antagonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Progesterone;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma2 binder;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PS3061;;;active;;;Vero E6;Sec61 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "PS3061;;;Inconclusive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Quercetin;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RapaLink-1;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Rapamycin (Sirolimus);;;weak/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Rapamycin (Sirolimus);;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;mTOR inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ribavirin;;;inactive;;;Vero E6;IMPDH inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ribavirin;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Rimcazole;;;inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RP101 (Brivudine);;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RP101 (Brivudine);;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RS-PPCC;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RS-PPCC;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma 1 agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ruxolitinib;;;agonist/inconclusive;;;Vero E6;Multi-targeted protein kinase inhibitor ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ruxolitinib;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RVX-208;;;inactive;;;Vero E6;BRD2/4 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "RVX-208;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Sapanisertib (INK128/MlN128);;;weak/inconclusive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Sapanisertib (INK128/MlN128);;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;mTOR inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Silmitasertib (CX-4945);;;active;;;Vero E6;CK2 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Siramesine;;;Active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma1 agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Siramesine;;;Active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Sigma2 agonist;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "S-verapamil;;;;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "S-verapamil;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;Calcium channel. drug efflux transporter inhibitior;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ternatin 4 (DA3);;;active;;;Vero E6;eEF1A inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Ternatin 4 (DA3);;;Active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Tomivosertib (eFT-508);;;inactive;;;Vero E6;MNK1/2 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Tomivosertib (eFT-508);;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Valproic Acid;;;inactive;;;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Valproic Acid;;;Inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;HDAC2 inhibitor ;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "XL413;;;inactive;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;CDC7 inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Zotatifin (eFT226);;;active;;;Vero E6;EIF4a inhibitor;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "Zotatifin (eFT226);;;Active;;SARS-CoV-2. isolate France/IDF0372/2020;Vero E6;;https://doi.org/10.1038/s41586-020-2286-9;;"
+    ],
+    [
+      "N3;;16.77;;133;;Vero 6;inhibit multiple CoV Mpros;https://doi.org/10.1038/s41586-020-2223-y;;"
+    ],
+    [
+      "Ebselem;;4.67;;;;Vero 6;;https://doi.org/10.1038/s41586-020-2223-y;;"
+    ],
+    [
+      "Cinanserin;;20.61;;>200;;Vero 6;;https://doi.org/10.1038/s41586-020-2223-y;;"
+    ],
+    [
+      "Abemaciclib  ;;6.62;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;Yes"
+    ],
+    [
+      "Abemaciclib  ;;43.7;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Amodiaquine dihydrochloride 5.15 ;;5.15;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Amodiaquine dihydrochloride 5.15 ;;>50;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Anidulafungin;;4.64;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Anidulafungin;;17.23;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Bazedoxifene ;;3.44;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Bazedoxifene ;;12.63;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Berbamine hydrochloride  ;;7.87;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Berbamine hydrochloride  ;;>50;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Cepharanthine  ;;4.47;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Cepharanthine  ;;30;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Chloroquine ;;7.28;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Chloroquine ;;69.2;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Ciclesonide ;;4.33;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Ciclesonide ;;10.6;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Cyclosporine  ;;5.82;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Cyclosporine  ;;4.69;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Digitoxin  ;;0.23;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Digitoxin  ;;0.16;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Digoxin ;;0.19;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Digoxin ;;0.72;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Eltrombopag ;;8.27;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Eltrombopag ;;8.38;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Gilteritinib  ;;6.76;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Gilteritinib  ;;>50;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Hexachlorophene  ;;0.9;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Hexachlorophene  ;;1.48;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Hydroxyprogesterone caproate;;6.3;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Hydroxyprogesterone caproate;;3.87;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Ivacaftor ;;6.57;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Ivacaftor ;;11.55;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Loperamide hydrochloride ;;9.27;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Loperamide hydrochloride ;;12.53;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Lopinavir ;;9.12;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Lopinavir ;;21.7;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Mefloquine ;;4.33;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Mefloquine ;; >50;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Nafamostat mesylate ;;0.0022;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Nafamostat mesylate ;;13.88;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Niclosamide  ;;0.28;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Niclosamide  ;;0.84;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Ouabain ;;<0.1 ;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Ouabain ;;<0.1;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Oxyclozanide ;;3.71;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Oxyclozanide ;;6.78;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Proscillaridin;;2.04;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Proscillaridin;;5.95;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Remdesivir ;;1.3;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Remdesivir ;;11.41;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Salinomycin sodium ;;0.24;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Salinomycin sodium ;;0.5;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3; ;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Tetrandrine ;;3;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Vero;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "Tetrandrine ;;13.5;;;SARS-CoV-2 (\u03b2CoV/KOR/KCDC03/2020);Calu-3;;https://doi.org/10.1101/2020.05.12.090035 ;;"
+    ],
+    [
+      "cycloheximide;;0.17;;>0.5;patient isolate;Caco-2;inhibit translation elongation;https://doi.org/10.1038/s41586-020-2332-7;;"
+    ],
+    [
+      "emetine;;0.47;;>1;patient isolate;Caco-2;inhibits 40S ribosomal protein S14;https://doi.org/10.1038/s41586-020-2332-7;;"
+    ],
+    [
+      "pladienolide B;;0.0013;;0.007;patient isolate;Caco-2;spliceosome inhibitor targeting splicing factor SF3B1;https://doi.org/10.1038/s41586-020-2332-7;;"
+    ],
+    [
+      "2-deoxy-D-glucose;;0.41;;9.09;patient isolate;Caco-2;inhibitor of hexokinase. glycolysis;https://doi.org/10.1038/s41586-020-2332-7;;"
+    ],
+    [
+      "NMS-873;;0.025;toxic effect?;0.025;patient isolate;Caco-2;small molecule inhibitor of the AAA ATPase p97;https://doi.org/10.1038/s41586-020-2332-7;;"
+    ],
+    [
+      " Ribavirin;;0.07;toxic effect?;0.07;patient isolate;Caco-2;inhibition of nucleotide synthesi;https://doi.org/10.1038/s41586-020-2332-7;;"
+    ],
+    [
+      "the pandemic response box ;400cpds;; sixteen compounds that showed inhibition of the SARS-CoV-2 after the survival screen;;SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929;Vero-E6;;https://doi.org/10.1101/2020.05.17.100404;;"
+    ],
+    [
+      "Retro-2.1 ;;0.4909;;50;SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929;Vero-E6;Retrograde transport inhibitor  ;https://doi.org/10.1101/2020.05.17.100404;;"
+    ],
+    [
+      "Chloroquine;;1.03;;50;SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929;Vero-E6;Autophagic proteolysis inhibitor ;https://doi.org/10.1101/2020.05.17.100404;;"
+    ],
+    [
+      "N-Nonyl  Deoxyno  Jirimycin   (NNDNJ);;1.677;;50;SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929;Vero-E6;ER \u03b1-glucosidase inhibitors ;https://doi.org/10.1101/2020.05.17.100404;;"
+    ],
+    [
+      "URMC-099-C;;0.335;;13.1;SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929;Vero-E6;Mixed-lineage kinase 3 inhibitor;https://doi.org/10.1101/2020.05.17.100404;;"
+    ],
+    [
+      "Remdesivir;;1.842;;50;SARS-CoV-2 (SARS-85 CoV-2/M\u00fcnchen-1.1/2020/929;Vero-E6;Nucleoside analogue;https://doi.org/10.1101/2020.05.17.100404;;"
+    ],
+    [
+      "Favipiravir ;T-705;207.1;;> 500;SARS-CoV-2 strain BavPat1;Vero-E6;nucleotide analogue;https://doi.org/10.1101/2020.05.15.098731;;"
+    ],
+    [
+      "Miglustat;\"Zavesca; N-butyl-1-deoxynojirimycin. NB-DNJ\";41\u00b122;;> 1000;SARS-CoV-2 strain ICGEB-FVG_5;Vero-E6;inhibits \u03b1-24 glucosidases I and II;https://doi.org/10.1101/2020.05.18.101691;;"
+    ],
+    [
+      "oseltamivir carboxylic acid;;>100;inactive;;SARS-CoV-2;Vero-E6;neuraminidase inhibitor;https://doi.org/10.1101/2020.05.15.20102392;;"
+    ],
+    [
+      "GZ-161;;~2;;;SARS-CoV-2 (GISAID accession EPI_ISL_406862);Vero-E6;inhibitor of  glucosylceramide synthase (GCS); https://doi.org/10.1101/2020.05.18.103283;;"
+    ],
+    [
+      "GZ-346;;~2;;;SARS-CoV-2 (GISAID accession EPI_ISL_406862);Vero-E6;inhibitor of  glucosylceramide synthase (GCS); https://doi.org/10.1101/2020.05.18.103283;;"
+    ],
+    [
+      "Gemcitabine;;1.24;active;>40;SARS-CoV-2 (WIV04);Vero-E6;inhibition of viral replication;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "lycorine;;0.31;active;>40;SARS-CoV-2 (WIV04);Vero-E6;inhibition of viral replication;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "oxysophoridine;;0.18;active;>40;SARS-CoV-2 (WIV04);Vero-E6;inhibition of viral replication;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "Chloroquine;;1.36;active;>40;SARS-CoV-2 (WIV04);Vero-E6;;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "Gemcitabine;;n.d.;active;;SARS-CoV-2 (WIV04);Huh-7;inhibition of viral replication;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "lycorine;;n.d.;active;;SARS-CoV-2 (WIV04);Huh-7;inhibition of viral replication;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "oxysophoridine;;n.d.;active;;SARS-CoV-2 (WIV04);Huh-7;inhibition of viral replication;https://doi.org/10.1080/22221751.2020.1772676 ;;"
+    ],
+    [
+      "ROC-325;;3.28;;>30;SARS-CoV-2;Vero-E6;inhibit lysosome fusion;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "Clomipramine;;13.6;;>30;SARS-CoV-2;Vero-E6;inhibit autophagic flux;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "Hycanthone;;5.79;;14;SARS-CoV-2;Vero-E6;increase lysosomal membrane permeabilization ;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "Verteporfin;;inactive;inactive;>30;SARS-CoV-2;Vero-E6;inhibiting autophagic flux;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "Chloroquine;;2.01;;>30;SARS-CoV-2;Vero-E6;inhibit lysosome fusion;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "hydroxychloroquine;;4.47;;>30;SARS-CoV-2;Vero-E6;inhibit lysosome fusion;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "Mefloquine;;3.85;;8.78;SARS-CoV-2;Vero-E6;autophagic flux;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "remdesivir ;;7.04;;;SARS-CoV-2;Vero-E6;;https://doi.org/10.1101/2020.05.16.091520;;"
+    ],
+    [
+      "CbAE-1;;0.7344;;653.1;pseudo SARS-CoV-2;HEK-293T-ACE2;secreted bacterial lipase; https://doi.org/10.1101/2020.05.22.109900;;"
+    ],
+    [
+      "CbAE-1;;2.991;;653.1;SARS-CoV-2;Vero;secreted bacterial lipase; https://doi.org/10.1101/2020.05.22.109900;;"
+    ],
+    [
+      "CbAE-2;;1.041;;>1000;pseudo SARS-CoV-2;HEK-293T-ACE2;secreted bacterial lipase; https://doi.org/10.1101/2020.05.22.109900;;"
+    ],
+    [
+      "CbAE-2;;2.49;;>1000;SARS-CoV-2;Vero;secreted bacterial lipase; https://doi.org/10.1101/2020.05.22.109900;;"
+    ],
+    [
+      "Simeprevir;;4.082;;19.33;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;protease inhibitor ; https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Redesivir;;4.269;;>200;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;nucleoside analogue ;https://doi.org/10.1101/2020.05.26.116020;#NAME?;"
+    ],
+    [
+      "Bromocriptine Mesylate;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Bictegravir;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Entecavir;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      " Zidovudine;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Sofosbuvir;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Atovaquone;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Daclatasvir;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Saquinavir;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "Asunaprevir;;>10;;;SARS-CoV-2  (BetaCoV/Hong Kong/VM20001061/2020. SCoV2);Vero-E6;;https://doi.org/10.1101/2020.05.26.116020;;"
+    ],
+    [
+      "chloroquine diphosphate. racemic ;;1.801;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "chloroquine diphosphate. R-;;1.975;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "chloroquine diphosphate. S-;;1.761;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "hydroxychloroquine sulfate. racemic;;1.752;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "hydroxychloroquine sulfate. R-;;2.445;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "hydroxychloroquine sulfate. S-;;1.444;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "azithromycin;;~10;;;SARS-CoV-2 (Genebank accession no. MT123290.1);Vero-E6;;https://doi.org/10.1101/2020.05.26.114033;;"
+    ],
+    [
+      "Amiodarone;;0.052;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Bosutinib;;0.02;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Clofazamine;;0.084;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Gilteritinib  ;;0.224;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Verapamil;;0.533;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Thioguanine;;0.216;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Z-FA-FMK;;0.107;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Metociopramide;;0.468;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "S1RA;;0.222;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Entecavir;;0.042;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Remdesivir;;0.006;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Niclosamide  ;;0.142;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Fedratinib;;0.024;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Lomitapide;;0.766;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Lactoferrin;;0.308;;>1;SARS-CoV-2 WA1;Huh-7;;https://doi.org/10.1101/2020.05.27.117184;;"
+    ],
+    [
+      "Interferon-\u03b21A;IFN-\u03b21a;0.76 IU/ml;;;SARS-CoV-2 (USA-WA1/2020);Vero;;https://www.ncbi.nlm.nih.gov/pubmed/32360182;;"
+    ],
+    [
+      "Interferon-\u0251;IFN-\u03b1;1.35 IU/ml\u00a0;;;SARS-CoV-2 (USA-WA1/2020);Vero;;https://www.ncbi.nlm.nih.gov/pubmed/32360182;;"
+    ],
+    [
+      "Remdesivir;;0.826;;>20;SARS-CoV-2;VeroE6;;https://doi.org/10.21203/rs.3.rs-30934/v1;;"
+    ],
+    [
+      "Hydroxychloroquine;;0.733;;>20;SARS-CoV-2;VeroE6;;https://doi.org/10.21203/rs.3.rs-30934/v1;;"
+    ],
+    [
+      "Famotidine;;>100;;>100;SARS-CoV-2;VeroE6;;https://doi.org/10.21203/rs.3.rs-30934/v1;;"
+    ],
+    [
+      "Ivermectin;;2.2 - 2.8;;;SARS-CoV-2 (Australia/VIC01/2020);Vero/hSLAM;binds to and destabilises the Imp\u03b1/\u03b21 heterodimer;https://www.ncbi.nlm.nih.gov/pubmed/32251768;;yes"
+    ],
+    [
+      "Remdesivir;;0.38;;>100 ;SARS-CoV-2 patient derived;Caco-2;; https://doi.org/10.1016/j.ijid.2020.05.085;;"
+    ],
+    [
+      "Darunavir;;>100;not active;>100 ;SARS-CoV-2 patient derived;Caco-2;; https://doi.org/10.1016/j.ijid.2020.05.085;;"
     ]
   ]
 }
