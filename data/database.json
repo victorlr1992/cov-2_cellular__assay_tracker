@@ -1,5 +1,5 @@
 {
-  "data.json": [
+  "data": [
     [
       "ribavirin",
       "nan",
@@ -651,15 +651,15 @@
       "nan"
     ],
     [
+      "Carbapentane",
       "nan",
       "nan",
+      "inactive",
       "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
+      "SARS-CoV-2. isolate France/IDF0372/2020",
+      "Vero E6",
       "Sigma2 binder",
-      "nan",
+      "https://doi.org/10.1038/s41586-020-2286-9",
       "nan",
       "nan"
     ],
@@ -989,15 +989,15 @@
       "nan"
     ],
     [
+      "Haloperidol",
       "nan",
       "nan",
+      "inactive",
       "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
+      "SARS-CoV-2. isolate France/IDF0372/2020",
+      "Vero E6",
       "Sigma 2 agonist",
-      "nan",
+      "https://doi.org/10.1038/s41586-020-2286-10",
       "nan",
       "nan"
     ],
@@ -1028,15 +1028,15 @@
       "nan"
     ],
     [
+      "Ifenprodil",
       "nan",
       "nan",
+      "inactive",
       "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
+      "SARS-CoV-2. isolate France/IDF0372/2020",
+      "Vero E6",
       "Sigma2 binder",
-      "nan",
+      "https://doi.org/10.1038/s41586-020-2286-9",
       "nan",
       "nan"
     ],
@@ -1587,15 +1587,15 @@
       "nan"
     ],
     [
+      "Progesterone",
       "nan",
       "nan",
+      "inactive",
       "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
+      "SARS-CoV-2. isolate France/IDF0372/2020",
+      "Vero E6",
       "Sigma2 binder",
-      "nan",
+      "https://doi.org/10.1038/s41586-020-2286-9",
       "nan",
       "nan"
     ],
@@ -1873,15 +1873,15 @@
       "nan"
     ],
     [
+      "Siramesine",
       "nan",
       "nan",
+      "Active",
       "nan",
-      "nan",
-      "nan",
-      "nan",
-      "nan",
+      "SARS-CoV-2. isolate France/IDF0372/2020",
+      "Vero E6",
       "Sigma2 agonist",
-      "nan",
+      "https://doi.org/10.1038/s41586-020-2286-9",
       "nan",
       "nan"
     ],
