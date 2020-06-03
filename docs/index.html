@@ -63,7 +63,7 @@
 		 <th>EC50 [uM]</th>
 		 <th>Result</th>
 		 <th>CC50 [uM]</th>
-		 <th>Virus Strain</th>
+		 <th>virus</th>
 		 <th>Cell type</th>
 		 <th>Reported activity in URL</th>
 		 <th>Reference</th>
@@ -110,7 +110,7 @@
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
             ajax:
-              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/database2.json",
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/database.json",
             dom: 'lfBrtip',
             buttons: [{extend:'searchPanes', text: 'Filter', config: {
                     cascadePanes: true
