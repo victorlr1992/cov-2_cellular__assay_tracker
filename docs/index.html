@@ -58,21 +58,16 @@
         <!-- Change these to match your column names in the appropriate order -->
         <thead>
           <tr>
-            <th>Compound Name</th>
-		 <th>Smiles code
-		 <th>alternative name</th>
-		 <th>activity</th>
-		 <th>inhibitor incubation</th>
-		 <th>virus</th>
-		 <th>cell type</th>
-		 <th>MOI</th>
- 		 <th>infection time</th>
-		 <th>Assay</th>
-		 <th>EC50uM]</th>
+         <th>Compound Name</th>
+		 <th>Alternative Name in Publication</th>
+		 <th>EC50 [uM]</th>
 		 <th>Result</th>
-		 <th>Cytotox assay</th>
-		 <th>cc50 [uM]</th>
-		 <th>URL</th>
+		 <th>CC50 [uM]</th>
+		 <th>Virus Strain</th>
+		 <th>Cell type</th>
+		 <th>Reported activity in URL</th>
+		 <th>Reference</th>
+		 <th>Smiles code</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -137,7 +132,7 @@
               container: '.searchPanes',
               cascadePanes: true,
               threshold: .5},
-            columnDefs: [{width: 30, targets: [6, 11, 13]}]
+            columnDefs: [{width: 40, targets: [9, 10]}]
         });
 
         new $.fn.dataTable.Buttons( table, {
