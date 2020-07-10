@@ -36,10 +36,10 @@
         <li class="nav-item">
           <a class="nav-link active" href="/results/">Results Zitzmann lab</a>
         </li>
-		<li class="nav-item">
+		<!--<li class="nav-item">
           <a class="nav-link" href="/published/">Published results</a>
         </li>
-        <!-- <li class="nav-item">
+         <li class="nav-item">
           <a class="nav-link" href="/data_viz/">Interactive</a>
         </li>
         <li class="nav-item">
@@ -56,7 +56,30 @@
         
       </div>
 
-      
+     <font size="2">
+      <table id="trials-table" class="table table-striped">
+        <!-- Change these to match your column names in the appropriate order -->
+        <thead>
+         <tr>
+		 <th>Compound Name</th>
+		  <th>Alternative name</th>
+		  <th>SMILES String</th>
+		  <th>MW</th>
+		  <th>Suggested mechanism</th>
+		  <th>Status</th>
+		  <th>Concentration measured in initial antiviral screen (μM)</th>
+		  <th>IC50</th>
+		  <th>IC90</th>
+		  </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </font>
+
+    <!-- This is all just more text below the table. You can add your own or delete but make sure to keep the final </div>-->
+      <p></p>
+      <p></p>
+      <font size="2"><p><i>Data as of 10/07/2020</i></p></font>  
     <!-- This is all just more text below the table. You can add your own or delete but make sure to keep the final </div>-->
       <p></p>
       <p></p>
@@ -99,6 +122,43 @@
     <!-- The explanations for what all this does you can get an idea of by reading about DataTable -->
     <!-- Most of it can probably mostly stay the same for you except the columnDefs parameter which I use to make some specific columns bigger as needed in my data -->
     
+	
+	<script type="text/javascript">
+      $(document).ready(function() {
+        var table = $("#trials-table").DataTable({
+            ajax:
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/20200710_Results_ZitzmannLab.json",
+            dom: 'lfBrtip',
+            buttons: [{extend:'searchPanes', text: 'Filter', config: {
+                    cascadePanes: true
+                }}, 
+                      {extend: 'colvis', text: 'Columns'}, 
+                      {extend: 'colvisRestore', text:'Restore Columns'}],
+            "scrollY": 500,
+            "scrollX": true,
+            colReorder: true,
+            language: {
+              searchPanes: {
+                collapse: 'Filter'
+              }
+            },
+            fixedColumns: {
+              leftColumns: 2
+            },
+            searchPanes: {
+              container: '.searchPanes',
+              cascadePanes: true,
+              threshold: .5}
+        });
+
+        new $.fn.dataTable.Buttons( table, {
+            buttons: ['copy', 'csv', 'excel']
+          });
+      table.buttons( 1, null ).container().appendTo(
+        table.table().container()
+        );
+      });
+    </script>
   </body>
   
 <!--This makes the footer, edit for your purposes-->
