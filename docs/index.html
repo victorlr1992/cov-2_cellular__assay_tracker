@@ -35,9 +35,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/results/">Results Zitzmann lab</a>
         </li>
-		<li class="nav-item">
+		<!-- <li class="nav-item">
           <a class="nav-link" href="/published/">Published results</a>
-        </li>
+        </li> -->
         <!-- <li class="nav-item">
           <a class="nav-link" href="/data_viz/">Interactive</a>
         </li>
@@ -59,16 +59,17 @@
         <!-- Change these to match your column names in the appropriate order -->
         <thead>
          <tr>
-          <th>Compound Name</th>
-		      <th>Alternative name in publication</th>
-		      <th>EC50 [uM]</th>
-		      <th>Result</th>
-		      <th>CC50 [uM]</th>
-		      <th>virus</th>
-		      <th>Cell type</th>
-      		<th>Reported activity in URL</th>
-      		<th>Reference</th>
-      		<th>Smiles code</th>
+		 <th>Compound Name</th>
+		  <th>Alternative name in Publication</th>
+		  <th>EC50 [uM]</th>
+		  <th>Result</th>
+		  <th>CC50 [uM]</th>
+		  <th>SARS-CoV-2 Strain</th>
+		  <th>Cell Type</th>
+		  <th>MOI</th>
+		  <th>Assay</th>
+		  <th>Cytotoxicity Assay</th>
+		  <th>URL</th>
          </tr>
         </thead>
         <tbody></tbody>
@@ -78,7 +79,7 @@
     <!-- This is all just more text below the table. You can add your own or delete but make sure to keep the final </div>-->
       <p></p>
       <p></p>
-      <font size="2"><p><i>Data as of 'date of last update'</i></p></font>
+      <font size="2"><p><i>Data as of 10/07/2020</i></p></font>
 
     <p>This is a live work in progress! If you:<br>
 	
@@ -112,7 +113,7 @@
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
             ajax:
-              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/database2.json",
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/20200709_FullData.json",
             dom: 'lfBrtip',
             buttons: [{extend:'searchPanes', text: 'Filter', config: {
                     cascadePanes: true
