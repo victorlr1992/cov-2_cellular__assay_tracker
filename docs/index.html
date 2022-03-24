@@ -59,8 +59,7 @@
         <!-- Change these to match your column names in the appropriate order -->
         <thead>
          <tr>
-		 <th>Compound Code</th>
-		 <th>Compound Name</th>
+		  <th>Compound Name</th>
 		  <th>Alternative name in Publication</th>
 		  <th>EC50 [µM]</th>
 		  <th>Result</th>
@@ -80,7 +79,7 @@
     <!-- This is all just more text below the table. You can add your own or delete but make sure to keep the final </div>-->
       <p></p>
       <p></p>
-      <font size="2"><p><i>Data as of 09/07/2021</i></p></font>
+      <font size="2"><p><i>Data as of 22/03/2022</i></p></font>
 
     <p>This is a live work in progress! If you:<br>
 	
@@ -114,7 +113,7 @@
       $(document).ready(function() {
         var table = $("#trials-table").DataTable({
 			ajax:
-              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/20210628_FullData_ZOX_2.json",
+              "https://raw.githubusercontent.com/victorlr1992/cov-2_cellular__assay_tracker/master/data/20220322_FullData_ZOX_KW_AvD.json",
 			dom: 'lfBrtip',
             buttons: [{extend:'searchPanes', text: 'Filter', config: {
                     cascadePanes: true
